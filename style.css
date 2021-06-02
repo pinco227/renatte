@@ -1,0 +1,55 @@
+body {
+	background: url(images/bg.jpg);
+	background-attachment: scroll;
+	background-position: top center;
+	background-repeat: repeat;
+	margin: 0px 0px 0px 0px;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
+	color: #412F13;
+}
+img {
+	border: none;
+}
+td.disclaimer {
+	text-align:center;
+	font-family: Tahoma;
+	font-size:14px;
+	font-weight:bolder;
+	color: #D5C2A1;
+}
+a.disclaimer:link, a.disclaimer:visited, a.disclaimer:active {
+	font-family: Tahoma;
+	font-size:14px;
+	font-weight:bolder;
+	text-decoration:none;
+	color: #FFFFFF;
+}
+a.disclaimer:hover {
+	font-family: Tahoma;
+	font-size:14px;
+	font-weight:bolder;
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+a:link, a:visited, a:active
+{
+	color: #412F13;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #B98D26;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+}

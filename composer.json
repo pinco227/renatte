@@ -1,0 +1,6 @@
+{
+    "name": "pinco/renatte",
+    "require": {
+        "php": "^7.0"
+    }
+}
